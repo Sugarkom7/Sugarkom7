@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sugarkom7
-- 👀 I’m interested in anything cybersecurity but mainly Network Security and Ethical Hacking.
+- 👀 I’m interested in anything cybersecurity but mainly protecting IT infrastructures and people's data.
 - 🌱 I’m currently learning Cybersecurity with Cisco and Edureka.
-- 💞️ I’m looking forwardto collaborating with like-minded people.
+- 💞️ I’m looking forward to collaborating with like-minded people.
 - 📫 How to reach me: komlaseho@gmail.com, billdollar16@yahoo.fr, +2347069477707.
 - 😄 Pronouns: always address me with he, him, his 😊
 - ⚡ Fun fact: I love critical thinking, problem solving, listening to music and playing video games. 
