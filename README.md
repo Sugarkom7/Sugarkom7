@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Komla!
 - ## A Tier 1 SOC Analyst.
-- 
 ![SOC Role](https://img.shields.io/badge/Role-SOC%20Analyst-blue)
 ![Monitoring](https://img.shields.io/badge/24%2F7-Monitoring-success)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-Active-brightgreen)
