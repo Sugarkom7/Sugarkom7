@@ -1,5 +1,22 @@
 - 👋 Hi, I’m Komla!
 - ## A Tier 1 SOC Analyst.
+
+## Brief Introduction
+
+## Objective
+
+## Skills
+|Skills                                             |                         Associated Projects|
+|                                                   |                                            |
+|                                                   |                                            |
+|                                                   |                                            |
+|
+|
+|
+|
+|
+
+## Tools and Technologies 
 ![SOC Role](https://img.shields.io/badge/Role-SOC%20Analyst-blue)
 ![Monitoring](https://img.shields.io/badge/24%2F7-Monitoring-success)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-Active-brightgreen)
@@ -11,7 +28,8 @@
 ![Detection](https://img.shields.io/badge/Detection-MITRE%20ATT%26CK-critical)
 ![Forensics](https://img.shields.io/badge/Forensics-Basic%20Analysis-yellow)
 ![Compliance](https://img.shields.io/badge/Compliance-ISO%2027001%20%7C%20NIST-lightgrey)
-- 
+
+## Certifications
 - 👀 I’m interested in anything cybersecurity but mainly protecting IT infrastructures and people's data.
 - 🌱 I’m currently learning Cybersecurity with Cisco and Python with Edureka.
 - 💞️ I’m looking forward to collaborating with like-minded people.
