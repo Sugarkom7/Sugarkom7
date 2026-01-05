@@ -2,9 +2,9 @@
 - ## A Tier 1 SOC Analyst.
 
 ## Brief Introduction
-
+A SOC Analyst with bachelor degree in Computer Science and hands-on experience in security monitoring, incident response and threat detection.
 ## Objective
-
+To support a SOC team in detecting and responding to security threat while strengthening real-world blue-team expertise.
 ## Skills
 |Skills                                             |                         Associated Projects|
 |                                                   |                                            |
